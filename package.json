@@ -1,5 +1,5 @@
 {
-  "name": "o3-search-mcp",
+  "name": "o4-mini-search-mcp",
   "version": "0.0.3",
   "main": "build/index.js",
   "bin": {
@@ -26,7 +26,7 @@
   ],
   "author": "@yoshiko-pg",
   "license": "MIT",
-  "description": "mcp server for web search by OpenAI o3 model",
+  "description": "mcp server for web search by OpenAI o4-mini model",
   "type": "module",
   "packageManager": "pnpm@10.10.0",
   "scripts": {

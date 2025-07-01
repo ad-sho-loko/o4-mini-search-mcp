@@ -1,6 +1,6 @@
-# o3-search-mcp
+# o4-mini-search-mcp
 
-An MCP (Model Context Protocol) server that provides web search capabilities using OpenAI's o3 model. The `o3-search` tool accepts text queries and returns AI-powered search results.
+An MCP (Model Context Protocol) server that provides web search capabilities using OpenAI's o4-mini model. The `o3-search` tool accepts text queries and returns AI-powered search results.
 
 ## Installation
 
@@ -9,7 +9,7 @@ An MCP (Model Context Protocol) server that provides web search capabilities usi
 Claude Code:
 
 ```
-$ claude mcp add o3 -s user \
+$ claude mcp add o4-mini -s user \
 	-e OPENAI_API_KEY=your-api-key \
 	-e SEARCH_CONTEXT_SIZE=medium \
 	-e REASONING_EFFORT=medium \
