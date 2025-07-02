@@ -21,7 +21,7 @@ json:
 ```json
 {
   "mcpServers": {
-    "o3-search": {
+    "o4-mini": {
       "command": "npx",
       "args": ["o4-mini-search-mcp"],
       "env": {
